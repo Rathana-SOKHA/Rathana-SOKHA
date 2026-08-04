@@ -1,4 +1,4 @@
-# Hi, I'm Rathana 👋
+# Hello, I'm Rathana SOKHA 👋
 
 Software Developer from Cambodia 🇰🇭
 
@@ -23,4 +23,4 @@ Laravel • Vue.js • React • Node.js • PHP • MySQL • TypeScript
 rathanasokha26@gmail.com
 
 🌐 Portfolio
-https://yourportfolio.com
+https://my-portfolio-sooty-sigma-90.vercel.app/
