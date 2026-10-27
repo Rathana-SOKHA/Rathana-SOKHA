@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js | Node.js | Next.js; Keep Learning" alt="Animated introduction: Full-Stack Developer, Full-Stack Development Enthusiast, Building useful digital experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js%2C+Node.js%2C+Next.js;Keep+Learning" alt="Animated introduction: Full-Stack Developer, React.js, Node.js, Next.js, Keep Learning" />
 
 <br />
 
@@ -75,7 +75,6 @@
 ### 🤖 AI Tools
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
