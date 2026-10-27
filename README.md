@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer · Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js | Node.js | Next.js;Keep+Learning" alt="Animated introduction: Full-Stack Developer, React.js, Node.js, Next.js, Keep Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js%20%7C%20Node.js%20%7C%20Next.js;Keep+Learning" alt="Animated introduction: Full-Stack Developer, React.js, Node.js, Next.js, Keep Learning" />
 
 <br />
 
