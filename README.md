@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://portfolio-rathana.vercel.app/">
+<a href="https://portfolio-rathana.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
 </a>
 <a href="mailto:rathanasokha26@gmail.com">
@@ -92,6 +92,6 @@
 
 ### Let's connect
 
-[🌐 Portfolio](https://portfolio-rathana.vercel.app/) · [📫 Email](mailto:rathanasokha26@gmail.com)
+<a href="https://portfolio-rathana.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> · [📫 Email](mailto:rathanasokha26@gmail.com)
 
 </div>
